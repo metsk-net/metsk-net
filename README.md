@@ -1,6 +1,10 @@
 <h1>Hi 👋, I'm Shu</h1>
 <p>Infrastructure Engineer</p>
 <p><img src="https://komarev.com/ghpvc/?username=metsk-net&label=Profile%20views&color=0e75b6&style=flat" alt="metsk-net" /></p>
+<p>
+  <a href="https://zenn.dev/kit_bull"><img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=zenn&label=Zenn%20articles&query=%24.user.articles_count&url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Fkit_bull&color=3EA8FF" alt="Zenn articles" /></a>
+  <a href="https://zenn.dev/kit_bull?tab=scraps"><img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=zenn&label=Zenn%20scraps&query=%24.user.scraps_count&url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Fkit_bull&color=3EA8FF" alt="Zenn scraps" /></a>
+</p>
 <h2>🚀 Languages & Tools</h2>
 <table>
   <tr>
