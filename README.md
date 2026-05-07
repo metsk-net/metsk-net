@@ -15,6 +15,8 @@
     <td><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a></td>
     <td><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></td>
     <td><a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://cdn.simpleicons.org/vmware/607078"><img src="https://cdn.simpleicons.org/vmware/607078" alt="vmware" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://cdn.simpleicons.org/cisco/1BA0D7"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="cisco" width="42" height="42" /></a></td>
   </tr>
 </table>
 <h2>🌱 Learning Next</h2>
@@ -24,7 +26,6 @@
     <td><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="42" height="42" /></a></td>
   </tr>
 </table>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metsk-net&" alt="metsk-net" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=metsk-net" alt="metsk-net streak stats" /></p>
 <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=metsk-net&theme=github-compact&hide_border=true" alt="metsk-net activity graph" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=metsk-net&show_icons=true&locale=en&layout=compact" alt="metsk-net" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=metsk-net" alt="metsk-net" /></a></p>
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=metsk-net&theme=github_dark" alt="metsk-net top languages by repo" /></p>
